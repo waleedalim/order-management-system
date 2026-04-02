@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 CMakeFiles/oms_demo.dir/src/main.cpp.o -o oms_demo  liboms_core.a -lpthread 

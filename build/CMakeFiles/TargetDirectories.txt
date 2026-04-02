@@ -1,0 +1,10 @@
+/home/waleed/oms/build/CMakeFiles/oms_core.dir
+/home/waleed/oms/build/CMakeFiles/oms_demo.dir
+/home/waleed/oms/build/CMakeFiles/oms_bench.dir
+/home/waleed/oms/build/CMakeFiles/oms_tests.dir
+/home/waleed/oms/build/CMakeFiles/edit_cache.dir
+/home/waleed/oms/build/CMakeFiles/rebuild_cache.dir
+/home/waleed/oms/build/CMakeFiles/list_install_components.dir
+/home/waleed/oms/build/CMakeFiles/install.dir
+/home/waleed/oms/build/CMakeFiles/install/local.dir
+/home/waleed/oms/build/CMakeFiles/install/strip.dir
