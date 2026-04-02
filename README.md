@@ -1,9 +1,8 @@
 # Sell-Side Order Management System (OMS)
 
-A production-style **Sell-Side OMS** written in **C++11**, following Bloomberg's
-BDE (Bloomberg Development Environment) coding conventions.
+A production-style **Sell-Side OMS** written in **C++11**.
 
-Built to demonstrate readiness for Bloomberg's core infrastructure engineering roles.
+Built to demonstrate readiness for infrastructure engineering roles.
 
 ---
 
@@ -13,7 +12,7 @@ A sell-side OMS is the central nervous system of a broker-dealer's trading desk.
 It receives orders from clients via FIX protocol, validates them against pre-trade
 risk limits, routes them to execution venues, and sends back execution reports.
 
-Bloomberg's own clients — Goldman, JPMorgan, Citi — run OMS systems built on
+Goldman, JPMorgan, Citi — run OMS systems built on
 exactly these principles. This project implements the core components from scratch.
 
 ---
